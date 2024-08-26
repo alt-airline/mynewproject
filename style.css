@@ -1,0 +1,131 @@
+.first-container{
+    height: 360px;
+    width: 1510px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(154, 20, 20);
+}
+.button{
+    letter-spacing: 2px;
+    background-color: rgb(154, 20, 20);
+    color: rgb(255, 0, 0);
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+.button:hover{
+    background-color: rgb(0, 0, 0);
+    transform: scale(1.1);
+}
+.second-container{
+    padding-left: 120px;
+    width: fit-content;
+    
+    
+}
+.second-container p{
+    width: 350px;
+}
+.img{
+    width: 440px;
+    height: 160px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.space{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 32px;
+    padding-right: 140px;
+}
+ul{
+display: flex;
+flex-direction: row;
+
+list-style-type: none;
+text-decoration: none;
+ 
+
+
+}
+.for-header{
+    display: flex;
+    justify-content: space-around;
+}
+.links{
+    margin: 12px;
+}
+.header{
+    padding-top: 10px;
+    font-size: 24px;
+}
+
+.Random img{
+    width: 222px;
+    height: 222px;
+    padding-left: 40px;
+}
+.information{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(154, 20, 20)
+}
+.title h1{
+    text-align: center;
+}
+.seriy{
+    width: 1510px;
+    height: 240px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(154, 20, 20);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.beliy{
+    width: 660px;
+    height: 120px;
+    background-color: rgb(0, 0, 0);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding-left: 25px;
+   
+}
+.last{
+    width: 1510px;
+    height: 240px;
+    background-color: rgb(154, 20, 20);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bar{
+    width: 900px;
+    height: 140px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(154, 20, 20);
+    display: flex;
+    justify-content: space-around;
+    
+}
+.buttom{
+    padding-top: 70px;
+    
+}
+button{
+    letter-spacing: 2px;
+    background-color: rgb(154, 20, 20);
+    color: black;
+    padding: 10px 20px;
+    border-radius: 8px;
+    
+}
+.Random p{
+    padding-left: 50px;
+}
